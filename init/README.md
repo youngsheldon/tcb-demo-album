@@ -9,7 +9,7 @@
 
 https://github.com/TencentCloudBase/tcb-demo-album
 
-### 课程源码
+### 课程初始源码
 
 https://github.com/TencentCloudBase/tcb-demo-album/tree/master/init
 
