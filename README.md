@@ -6,7 +6,7 @@
 
 # 资料下载
 ### 课程教材
-https://share.weiyun.com/569H3hA
+https://github.com/TencentCloudBase/tcb-demo-album
 
 ### 课程源码
 
