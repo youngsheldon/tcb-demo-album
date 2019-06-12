@@ -14,7 +14,7 @@ https://github.com/TencentCloudBase/tcb-demo-album
 ![](https://puui.qpic.cn/vupload/0/20190612_1560306333251_xkgdae6j4va.png/0)
 
 
-### 课程源码
+### 课程初始源码
 
 https://github.com/TencentCloudBase/tcb-demo-album/tree/master/init
 
