@@ -5,7 +5,7 @@
 序·云开发能力，提升功能开发效率，提升数据隐私保护能力。
 
 # 资料下载
-### 课程教材
+### 课程教材PDF下载
 https://github.com/TencentCloudBase/tcb-demo-album
 
 ![](https://puui.qpic.cn/vupload/0/20190612_1560305785509_n4j9zqick4n.png/0)
